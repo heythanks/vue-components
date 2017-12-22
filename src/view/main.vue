@@ -7,7 +7,7 @@
 	</div>
 </template>
 <script type="text/javascript">
-	import threeMenu from '@/components/threeMenu/threeMenu'
+	import threeMenu from '@/components/threeMenuTwo/threeMenuTwo'
 	export default{
 		components: {
 			threeMenu
