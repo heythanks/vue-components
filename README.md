@@ -22,5 +22,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 # 现有组件
    ### 三级菜单栏
-   >方法一:threeMenu数据结构体上有显示与隐藏的标志位字段
-   >方法二:threeMenuTwo数据结构体上没有显示隐藏标志位，自己拼接
+   #### 方法一:threeMenu数据结构体上有显示与隐藏的标志位字段
+   #### 方法二:threeMenuTwo数据结构体上没有显示隐藏标志位，自己拼接
